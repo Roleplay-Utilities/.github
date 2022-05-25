@@ -10,3 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## What's Mega Utilities❓️
+At Mega Utilities we make Discord Bots, CAD/MDT Products for Roleplay such as GTA5's FiveM Modification. We take special orders and we make websites. Check us out on [Discord]() If you're intested!
