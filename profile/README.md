@@ -1,10 +1,5 @@
 ## Hey there 👋
-![Mega Utilities github stats](https://github-readme-stats.vercel.app/api?username=Roleplay-Utilities&show_icons=true&theme=radical)
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roleplay-Utilities&layout=compact)](https://github.com/BestLeaks/github-readme-stats)
-
-[Mega Utilities wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Roleplay-Utilities&layout=compact)]
-
+Welcome to our github organization
 ❤️ From [Mega Utilities Team](https://github.com/Roleplay-Utilities)
 
 <!--
