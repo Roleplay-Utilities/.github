@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there 👋
+
+## Stats
+Soon
 
 <!--
 
@@ -12,4 +15,4 @@
 -->
 
 ## What's Mega Utilities❓️
-At Mega Utilities we make Discord Bots, CAD/MDT Products for Roleplay such as GTA5's FiveM Modification. We take special orders and we make websites. Check us out on [Discord]() If you're intested!
+At Mega Utilities we make Discord Bots, CAD/MDT Products for Roleplay such as GTA5's FiveM Modification. We take special orders and we make websites. Check us out on [Discord](https://discord.gg/J9N6evPF8Y) If you're intested!
