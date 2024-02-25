@@ -22,7 +22,7 @@ We do a lot so here's our other stuff!
 
 [Fusion Company GitHub](https://github.com/FS-Company)
 
-[Mega Group GitHub](htt[s://github.com/mega-group)
+[Mega Group GitHub](https://github.com/mega-group)
 
 [mega-api GitHub](https://github.com/mega-api)
 
