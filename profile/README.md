@@ -15,3 +15,19 @@ Welcome to our github organization
 
 ## What's Mega Utilities❓️
 At Mega Utilities we make Discord Bots, CAD/MDT Products for Roleplay such as GTA5's FiveM Modification. We take special orders and we make websites. Check us out on [Discord](https://discord.gg/J9N6evPF8Y) If you're intested!
+
+# Us
+We do a lot so here's our other stuff!
+[ACHNetwork GitHub](https://github.com/Anything-can-happen)
+
+[Fusion Company GitHub](https://github.com/FS-Company)
+
+[Mega Group GitHub](htt[s://github.com/mega-group)
+
+[mega-api GitHub](https://github.com/mega-api)
+
+[Mega Bots GitHub](https://github.com/mu-mega-bots)
+
+[Mega Games GitHub](https://github.com/os-mega-games)
+
+[Mega Systems GitHub](https://github.com/mu-mega-systems)
